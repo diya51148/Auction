@@ -16,9 +16,9 @@ Trusted Auction System is a web application developed using Django, a Python web
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/abdullahnaveedan/trusted-auction-system.git`
+1. Clone the repository: `git clone https://github.com/diya51148/Auction.git`
 
-2. Navigate to the project directory: `cd trusted-auction-system`
+2. Navigate to the project directory: `cd Auction`
 
 3. Install dependencies (i.e. Install Django, Python, Pillows)
 
@@ -56,12 +56,8 @@ Trusted Auction System is a web application developed using Django, a Python web
 
 This project was developed by Abdullah Naveed. Feel free to contribute by submitting pull requests or reporting issues.
 
-## License
-
-Feel free to use and modify the code according to your needs.
-
-For any inquiries or support, please contact naveedabdullah00001@gmail.com  
+ 
 Thanks
 
-https://github.com/abdullahnaveedan/Trusted-Auction-System/assets/128359566/25b2ce23-5b7e-4b75-9eca-c68671f9a217
+
 
