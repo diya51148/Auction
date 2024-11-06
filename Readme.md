@@ -54,7 +54,7 @@ Trusted Auction System is a web application developed using Django, a Python web
 
 ## Credits
 
-This project was developed by Abdullah Naveed. Feel free to contribute by submitting pull requests or reporting issues.
+This project was developed by Diya Sharma. Feel free to contribute by submitting pull requests or reporting issues.
 
  
 Thanks
